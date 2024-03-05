@@ -24,7 +24,7 @@ description: |
     For help with this snap, please create a topic on https://forum.snapcraft.io/ unless you can reproduce the problem with one of the official releases from https://rclone.org/downloads/.
 
     To use this snap as a drop-in replacement for rclone, run "snap alias rclone-from-github rclone".
-base: core20
+base: core22
 
 confinement: strict
 grade: stable
